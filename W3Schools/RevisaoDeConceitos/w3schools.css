@@ -1,0 +1,21 @@
+body {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+header {
+
+    height: 95px;
+    width: 1300px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
